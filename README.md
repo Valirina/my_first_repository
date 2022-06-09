@@ -5,3 +5,4 @@ Add some text
 добавила текст через браузер. Add English text local
 
 ## Add text to the end
+*добавили текст в другой ветке - readme_edit*
